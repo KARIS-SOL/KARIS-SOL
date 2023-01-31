@@ -1,5 +1,4 @@
-### Hello there, it's me 👋
-
+###
 <!--
 **KARIS-SOL/KARIS-SOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
